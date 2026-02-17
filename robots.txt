@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mountvernonNYplumbing.com/sitemap.xml
